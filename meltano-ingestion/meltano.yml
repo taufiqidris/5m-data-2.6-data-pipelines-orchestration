@@ -13,7 +13,7 @@ plugins:
     config:
       repositories:
       - pandas-dev/pandas
-      access_token: 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
+      access_token: TOKEN
     select:
     - releases.tag_name
     - releases.body
